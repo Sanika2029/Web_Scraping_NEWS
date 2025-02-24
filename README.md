@@ -18,11 +18,9 @@ read the documentation
 - Pandas (for data manipulation and storage)
 
 
-
-
 ## SCREENSHOT
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Sanika2029/Web_Scraping_NEWS/blob/main/headlines%20vs%20section.png)
 
 
 ## 🔗 Links
